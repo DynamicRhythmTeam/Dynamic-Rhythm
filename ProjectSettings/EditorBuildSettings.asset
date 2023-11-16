@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Rhythm Gameplay/Scenes/OptionsMenu.unity
     guid: 3d8b6ac7f39802f49bafb042aa4b6dfc
   - enabled: 1
-    path: Assets/Rhythm Gameplay/Scenes/Game.unity
+    path: Assets/Rhythm Gameplay/Scenes/Songs/TestSong1.unity
     guid: a7efac3f0da73e7439004acd29203987
   m_configObjects: {}
